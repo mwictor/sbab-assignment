@@ -1,7 +1,7 @@
 #To run Spring Boot backend application (starts on port 8080)
-
-run following command when in sbab-assignment directory
-java -jar sbab-assignment-be/target/sbab-assignment-1.0-SNAPSHOT.jar
+run following command when in sbab-assignment-be directory
+mvn clean install
+java -jar target/sbab-assignment-1.0-SNAPSHOT.jar
 
 
 #To run reactjs frontend application (starts on port 3000)
