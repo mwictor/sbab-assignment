@@ -1,0 +1,21 @@
+{
+  "StatusCode":0,
+  "ExecutionTime":327,
+  "ResponseData":{
+    "Version":"2014-10-09 18:05",
+    "Type":"TransportMode",
+    "Result":[
+      {
+        "StopPointNumber":"2",
+        "StopPointName":"A",
+        "StopAreaNumber":"1051",
+        "LocationNorthingCoordinate":"59.3313179695028",
+        "LocationEastingCoordinate":"18.0616773959365",
+        "ZoneShortName":"A",
+        "StopAreaTypeCode":"BUSSTERM",
+        "LastModifiedUtcDateTime":"2014-06-03 00:00:00.000",
+        "ExistsFromDate":"2014-06-03 00:00:00.000"
+      }
+    ]
+  }
+}
